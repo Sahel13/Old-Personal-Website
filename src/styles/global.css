@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "EBGaramond";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/EBGaramond-VariableFont_wght.ttf) format("ttf");
+  }
+  html {
+    font-family: "EBGaramond";
+  }
+}

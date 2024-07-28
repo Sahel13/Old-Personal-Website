@@ -6,6 +6,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontSize: {
+      lg: "1.3rem",
+      "3xl": "2rem",
+    },
   },
   plugins: [],
-}
+};
