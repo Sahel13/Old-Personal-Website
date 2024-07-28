@@ -12,7 +12,8 @@ const IndexPage = () => {
   return (
     <Layout>
       <section id="about" className="scroll-mt-20">
-        <SectionHeader>Sahel Iqbal</SectionHeader>
+        <h1 className="text-3xl font-normal">Sahel Iqbal</h1>
+        <div className="h-1 bg-black mb-4"></div>
         <div className="md:grid md:grid-cols-5 md:gap-6">
           <StaticImage
             src="../images/profile_picture.jpg"
