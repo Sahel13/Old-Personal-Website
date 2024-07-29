@@ -34,13 +34,12 @@ const IndexPage = () => {
               >
                 Simo Särkkä
               </a>
-              . My broad interests lie in the intersection of probabilistic
-              machine learning and physics, and I'm interested in developing and
-              applying Bayesian inference techniques for applications in
-              physical/dynamical systems. Specific areas that I work on as part
-              of my PhD include probabilistic partial differential equation
-              solvers, Bayesian experimental design, and control as
-              probabilistic inference.
+              . I'm broadly interested in probabilistic machine learning methods
+              and adding inductive biases to ML models, and I enjoy developing
+              and applying Bayesian inference techniques for applications in
+              physical/dynamical systems. Specific problems that I work on as
+              part of my PhD include Bayesian experimental design and
+              probabilistic differential equation solvers.{" "}
             </p>
             <p className="pt-4">
               {/* For academic details, see my{" "}
