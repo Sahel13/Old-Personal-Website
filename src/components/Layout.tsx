@@ -12,7 +12,7 @@ const Layout = ({ children }: LayoutProps) => {
     <div className="flex flex-col min-h-screen">
       <div className="grow">
         {/* <Header /> */}
-        <main className="max-w-screen-sm md:max-w-screen-md mx-auto px-4 mt-10">
+        <main className="max-w-screen-sm md:max-w-screen-md mx-auto px-4 mt-6">
           {children}
         </main>
       </div>
