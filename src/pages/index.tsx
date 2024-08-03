@@ -34,15 +34,15 @@ const IndexPage = () => {
               >
                 Simo Särkkä
               </a>
-              . I'm broadly interested in probabilistic machine learning methods
+              . I'm broadly interested in probabilistic machine learning (ML) methods
               and adding inductive biases to ML models, and I enjoy developing
               and applying Bayesian inference techniques for applications in
-              physical/dynamical systems. Specific problems that I work on as
+              physical/dynamical systems. Specific research areas that I work on as
               part of my PhD include Bayesian experimental design and
-              probabilistic differential equation solvers.{" "}
+              probabilistic solvers for differential equations.
             </p>
-            <p className="pt-4">
-              {/* For academic details, see my{" "}
+            {/* <p className="pt-4">
+              For academic details, see my{" "}
               <a
                 href="/"
                 target="_blank"
@@ -51,39 +51,10 @@ const IndexPage = () => {
               >
                 resume
               </a>{" "}
-              (last updated on 1st July, 2023). */}
-              For reseach related queries, I can be contacted at
-              sahel[dot]iqbal[at]aalto[dot]fi. Here are links to my{" "}
-              <a
-                href="https://scholar.google.com/citations?user=KP7mJUgAAAAJ&hl=en"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-sky-700"
-              >
-                Google Scholar
-              </a>{" "}
-              homepage,{" "}
-              <a
-                href="https://github.com/Sahel13"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-sky-700"
-              >
-                GitHub
-              </a>{" "}
-              profile, and{" "}
-              <a
-                href="https://twitter.com/sahel_iqbal"
-                target="_blank"
-                rel="noreferrer"
-                className="underline text-sky-700"
-              >
-                Twitter
-              </a>{" "}
-              handle.
-            </p>
-            <p className="pt-4 italic">
-              Website last updated on 29th July, 2024.
+              (last updated on 1st July, 2023).
+            </p> */}
+            <p className="pt-4 italic md:pt-8">
+              Website last updated on 3rd August, 2024.
             </p>
           </div>
         </div>

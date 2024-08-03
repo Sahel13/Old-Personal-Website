@@ -32,7 +32,7 @@ const Paper = (paper: PaperProps) => {
           rel="noreferrer"
           className="underline text-sky-700"
         >
-          Arxiv.
+          arXiv.
         </a>
       )}
       {/* Hack to get the spacing right. */}
