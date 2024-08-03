@@ -41,8 +41,8 @@ const IndexPage = () => {
               part of my PhD include Bayesian experimental design and
               probabilistic solvers for differential equations.
             </p>
-            {/* <p className="pt-4">
-              For academic details, see my{" "}
+            <p className="pt-4">
+              {/* For academic details, see my{" "}
               <a
                 href="/"
                 target="_blank"
@@ -51,9 +51,10 @@ const IndexPage = () => {
               >
                 resume
               </a>{" "}
-              (last updated on 1st July, 2023).
-            </p> */}
-            <p className="pt-4 italic md:pt-8">
+              (last updated on 1st July, 2023). */}
+              For research-related queries, I can be contacted at sahel[dot]iqbal[at]aalto[dot]fi.
+            </p>
+            <p className="pt-4 italic">
               Website last updated on 3rd August, 2024.
             </p>
           </div>
