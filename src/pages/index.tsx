@@ -42,20 +42,19 @@ const IndexPage = () => {
               probabilistic solvers for differential equations.
             </p>
             <p className="pt-4">
-              {/* For academic details, see my{" "}
+              For academic details, see my{" "}
               <a
-                href="/"
+                href="/sahel_iqbal_cv.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="underline text-sky-700"
               >
-                resume
+                resume.
               </a>{" "}
-              (last updated on 1st July, 2023). */}
               For research-related queries, I can be contacted at sahel[dot]iqbal[at]aalto[dot]fi.
             </p>
             <p className="pt-4 italic">
-              Website last updated on 3rd August, 2024.
+              Website last updated on 7th August, 2024.
             </p>
           </div>
         </div>
