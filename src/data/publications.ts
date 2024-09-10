@@ -6,6 +6,7 @@ export const publications: PaperProps[] = [
     authors: "Sahel Iqbal, Hany Abdulsamad, Tripp Cator, Ulisses Braga-Neto, Simo Särkkä",
     year: "2024",
     venue: "IEEE International Workshop on Machine Learning for Signal Processing",
+    code: "https://github.com/hanyas/parallel-pde",
   },
   {
     title: "Nesting Particle Filters for Experimental Design in Dynamical Systems",

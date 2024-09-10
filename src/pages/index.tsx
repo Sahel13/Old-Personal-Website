@@ -54,7 +54,7 @@ const IndexPage = () => {
               For research-related queries, I can be contacted at sahel[dot]iqbal[at]aalto[dot]fi.
             </p>
             <p className="pt-4 italic">
-              Website last updated on 7th August, 2024.
+              Website last updated on 10th September, 2024.
             </p>
           </div>
         </div>
