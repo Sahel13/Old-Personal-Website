@@ -54,7 +54,7 @@ const IndexPage = () => {
               For research-related queries, I can be contacted at sahel[dot]iqbal[at]aalto[dot]fi.
             </p>
             <p className="pt-4 italic">
-              Website last updated on 10th September, 2024.
+              Website last updated on 11th October, 2024.
             </p>
           </div>
         </div>
@@ -77,7 +77,7 @@ const IndexPage = () => {
         </ul>
       </section>
       <section id="preprints" className="my-6 scroll-mt-20">
-        <SectionHeader>Preprints</SectionHeader>
+        <SectionHeader>Working Papers</SectionHeader>
         <ul className="mt-2 ml-4 list-disc">
           {preprints.map((element) => (
             <Paper
